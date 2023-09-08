@@ -19,5 +19,6 @@ public class Main {
         //2. Create array by generate random integer in range
         element.setArray(library.createArray(element.size_array));
         new SortPrograming(element).run();
+       
     }
 }
